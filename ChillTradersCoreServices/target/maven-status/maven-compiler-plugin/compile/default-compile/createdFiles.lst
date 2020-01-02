@@ -1,0 +1,17 @@
+com/chilltraders/core/ws/ProductService.class
+com/chilltraders/core/ChillTradersCoreServicesApplication.class
+com/chilltraders/core/repository/CustomerRepository.class
+com/chilltraders/core/controller/CustomerController.class
+com/chilltraders/core/ws/ProductServiceImpl.class
+com/chilltraders/core/model/Customer.class
+com/chilltraders/core/model/Product.class
+com/chilltraders/core/repository/OrderLinesRepository.class
+com/chilltraders/core/model/Order.class
+com/chilltraders/core/controller/IndexController.class
+com/chilltraders/core/ws/ProductServiceConfig.class
+com/chilltraders/core/controller/OrderController.class
+com/chilltraders/core/repository/ProductRepository.class
+com/chilltraders/core/exception/ResourcelreadyExistsException.class
+com/chilltraders/core/exception/ResourceNotFoundException.class
+com/chilltraders/core/model/OrderLines.class
+com/chilltraders/core/repository/OrderRepository.class

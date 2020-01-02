@@ -1,0 +1,17 @@
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/repository/OrderLinesRepository.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/exception/ResourcelreadyExistsException.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/repository/CustomerRepository.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/ws/ProductService.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/model/Order.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/repository/ProductRepository.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/controller/IndexController.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/repository/OrderRepository.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/controller/CustomerController.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/model/Customer.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/controller/OrderController.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/model/Product.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/exception/ResourceNotFoundException.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/ChillTradersCoreServicesApplication.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/ws/ProductServiceConfig.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/model/OrderLines.java
+/Users/adnan.a.bukhari/work/stsws/chilltraders/ChillTradersCoreServices/src/main/java/com/chilltraders/core/ws/ProductServiceImpl.java

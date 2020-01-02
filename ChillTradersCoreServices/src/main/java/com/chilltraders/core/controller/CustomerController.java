@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.chilltraders.core.repository.CustomerRepository;
-import com.chilltraders.core.model.*;
+import com.chilltraders.core.model.Customer;
 import com.chilltraders.core.exception.*;
 
 @RestController
@@ -63,6 +63,5 @@ public class CustomerController {
 
 	        return ResponseEntity.ok().build();
 	    }
-
 
 }
